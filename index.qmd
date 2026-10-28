@@ -3,16 +3,16 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/Mansfield Headshot.jpg
 ---
 
 :::{#me}
-
-## Goals
+I am a M.S. in Integrative Biology student at the Univeristy of New Hampshire, in Dr. Ashley Bulseco's Coastal Microbial Ecology lab. My research focuses on the microbial and biogeochemical response to thin layer placement salt marsh restoration, with an emphasis on nitrogen cycling. I am also working on a project characterizing oyster microbiomes in oysters across a range of management and environmental conditions in Great Bay, NH. 
 
 ## Education
+BS, Environmental Sciences, North Carolina State University, Minor in Soil Science
 
-## Experience
+AS, Durham Technical Community College
 
 :::
 

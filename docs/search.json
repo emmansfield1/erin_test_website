@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "I am a M.S. in Integrative Biology student at the Univeristy of New Hampshire, in Dr. Ashley Bulseco’s Coastal Microbial Ecology lab. My research focuses on the microbial and biogeochemical response to thin layer placement salt marsh restoration, with an emphasis on nitrogen cycling. I am also working on a project characterizing oyster microbiomes in oysters across a range of management and environmental conditions in Great Bay, NH.\n\n\nBS, Environmental Sciences, North Carolina State University, Minor in Soil Science\nAS, Durham Technical Community College\nThanks for checking out my web site!"
   },
   {
     "objectID": "projects.html#project-2",
@@ -19,5 +19,12 @@
     "title": "Projects",
     "section": "Project 3",
     "text": "Project 3"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "BS, Environmental Sciences, North Carolina State University, Minor in Soil Science\nAS, Durham Technical Community College"
   }
 ]
